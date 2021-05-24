@@ -1,6 +1,7 @@
 #include "Defines.h"
 #include "dataInput.h"
 #include "dataProcessing.h"
+#include "checkBarcode.h"
 
 
 int main(void)
