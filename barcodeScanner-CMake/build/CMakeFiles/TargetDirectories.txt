@@ -1,0 +1,3 @@
+C:/Users/Sisi/Desktop/barcodeScanner-main/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Sisi/Desktop/barcodeScanner-main/build/CMakeFiles/starcraft.dir
+C:/Users/Sisi/Desktop/barcodeScanner-main/build/CMakeFiles/edit_cache.dir
